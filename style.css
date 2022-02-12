@@ -1,6 +1,7 @@
 body{
     display: flex;
-    justify-content: center;
+    justify-content: center; 
+    margin-top: 100px;
 
 }
 
@@ -21,10 +22,8 @@ body{
 }
 
 .header{
-    display: flex;
-    justify-content:space-between;
-    flex-direction: row;
-    margin: 20px;
+    
+    margin: 10px;
     
 }
 .logo{
