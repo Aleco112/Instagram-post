@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+.frame{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    height: 680x;
+    align-items:inherit;
+    border: 2px solid black;
+
+    
+
+}
+
+.header{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    margin: 20px;
+    
+}
+.logo{
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.idbag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bag{
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom{
+
+  margin: 15px;
+    
+}
+.icon-group {
+    display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   margin: 15px;
+}
